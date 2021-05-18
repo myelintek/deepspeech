@@ -15,3 +15,4 @@ def Decode(self, input):
 ```
 TODO list
 - [ ] Inference using our trained model (English and Chinese version)
+- [ ] Generate Score file (English and Chinese version)
